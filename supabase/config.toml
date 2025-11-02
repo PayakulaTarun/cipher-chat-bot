@@ -1,0 +1,7 @@
+project_id = "npowvkfmtbgbwumaprpt"
+
+[functions.chat-ai]
+verify_jwt = false
+
+[functions.download-image]
+verify_jwt = false
